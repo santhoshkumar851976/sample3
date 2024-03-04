@@ -25,6 +25,6 @@ int main() {
         oct += (dec % 8) * i;
         dec /= 8;
         i *= 10;
-    }
-    return oct;
+    
+    eturn oct
 }
